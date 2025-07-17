@@ -1,4 +1,4 @@
 # titutlo
 ### subtitulo
 - elemento 
-- elemento *negrita*
+- **elemento** *negrita*
