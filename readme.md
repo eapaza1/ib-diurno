@@ -1,4 +1,6 @@
 # titutlo
 ### subtitulo
 - elemento 
-- **elemento** *negrita*
+- **negrita** *cursiva*
+-_cursiva_ **_negrita y cursiva_**
+
